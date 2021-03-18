@@ -1,0 +1,19 @@
+:root {
+    --black: #000;
+    --blue: rgb(41, 65, 171);
+    --green: #1ed760;
+    --white: #fff;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+    font-family: Roboto, sans-serif;
+    font-size: 1rem;
+}
+
+a {
+    text-decoration: none;
+}
