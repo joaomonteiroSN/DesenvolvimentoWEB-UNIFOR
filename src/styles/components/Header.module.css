@@ -32,3 +32,8 @@
 .link:hover {
     color: var(--green);
 }
+
+.buttomAjuda {
+    font-weight: bold;
+    color: var(--white);
+}
